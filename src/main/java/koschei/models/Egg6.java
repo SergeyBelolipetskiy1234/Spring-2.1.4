@@ -11,7 +11,6 @@ public class Egg6 {
         this.needle7 = needle7;
     }
 
-
     @Override
     public String toString() {
 
